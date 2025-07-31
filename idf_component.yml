@@ -1,6 +1,5 @@
-version: "1.0.0"
-description: "Component for supporting code coverage collection"
+version: 1.0.0
+description: GCOV library for ESP-IDF
 url: https://github.com/espressif/esp-gcov
 dependencies:
-  idf:
-    version: ">=4.3"
+  idf: ">=6.0"
